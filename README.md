@@ -1,4 +1,4 @@
-# Arduino Piezo Player - Never Gonna Give You Up
+# Arduino Piezo Buzzer - Never Gonna Give You Up
 
 Plays a rendition of Rick Astley's "Never Gonna Give You Up" on a passive piezo buzzer connected to an Arduino Uno (or compatible board). This version uses direct AVR C code and Timer1 for optimized PWM tone generation within the Arduino environment.
 
