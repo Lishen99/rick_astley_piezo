@@ -27,7 +27,7 @@ Connect the piezo buzzer:
 5.  In the Arduino IDE, select the correct Board (Arduino Uno) and Port from the Tools menu.
 6.  Click the "Upload" button (arrow icon).
 
-The Arduino will reset, and the song should start playing once through the piezo buzzer.
+The Arduino will reset, and the song should start playing through the piezo buzzer.
 
 ## Code Explanation
 

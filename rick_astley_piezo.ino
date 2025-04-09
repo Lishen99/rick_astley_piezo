@@ -2,8 +2,6 @@
  * ============================================================================
  * Project:     Arduino Piezo Player - Never Gonna Give You Up
  * File:        rick_astley_piezo.ino
- * Author:      [Your Name/GitHub Handle]
- * Date:        April 5, 2025
  * Copyright:   Copyright (c) 2025 Lishen Madusha Amaraweera
  * License:     MIT License (see LICENSE file for details)
  *
